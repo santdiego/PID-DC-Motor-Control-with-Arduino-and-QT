@@ -1,3 +1,8 @@
+//    Distributed under MIT License.
+//    Author: Dr. Ing. Diego D. Santiago
+//    Institution: INAUT - UNSJ - CONICET
+//    Email: dsantiago@inaut.unsj.edu.ar
+
 class PID {
     float          _K, _Ki, _Kd, ts; //control parameters
     float          A, B, C, D;     //control calculation constants

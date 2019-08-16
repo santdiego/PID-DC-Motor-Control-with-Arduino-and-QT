@@ -1,3 +1,8 @@
+//    Distributed under MIT License.
+//    Author: Dr. Ing. Diego D. Santiago
+//    Institution: INAUT - UNSJ - CONICET
+//    Email: dsantiago@inaut.unsj.edu.ar
+
 #include <TimerOne.h>
 #include <EEPROM.h>
 #include "serialframedecoder.h"

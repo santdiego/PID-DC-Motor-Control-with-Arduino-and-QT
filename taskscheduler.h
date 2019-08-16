@@ -1,3 +1,8 @@
+//    Distributed under MIT License.
+//    Author: Dr. Ing. Diego D. Santiago
+//    Institution: INAUT - UNSJ - CONICET
+//    Email: dsantiago@inaut.unsj.edu.ar
+
 #ifndef TASKSCHEDULER_H
 #define TASKSCHEDULER_H
 
